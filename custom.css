@@ -1,0 +1,64 @@
+/*
+    Folha de estilo para site pessoal versão bootstrap
+    Desenvolvido por Júnior Gonçalves em 01/03/2022
+*/
+
+body {
+    padding-top: 8rem;
+    font-family: 'Open Sans', sans-serif;
+}
+nav ul li a {
+    color: #4a1d6f !important;
+    font-size: 1.2rem;
+    text-align: right;
+    text-transform: uppercase;
+	text-decoration: none;
+}
+nav ul li a:hover {
+    text-shadow: 1px 1px 5px #4a1d6f;
+}
+.nav-link {
+    padding-left: 2rem!important;
+}
+#perfil {
+    background-color: #4a1d6f;
+    color: rgb(0, 0, 0);
+    padding: 2rem 0 1rem;
+}
+h1 {
+    font-family: 'Dancing Script';
+    padding-top: 3rem;
+    font-size: 4rem;
+    letter-spacing: 0.1px;
+    font-weight: 700;
+    font-style: italic;
+}
+.float-right {
+    float: right!important;
+}
+.lead {
+    font-size: 1.5rem;
+    font-style: italic;
+}
+.icons a {
+    display: inline-block;
+}
+#destaques {
+    background-color: rgb(211, 211, 211);
+}
+.card-text{
+    
+	font-weight: 700;
+	font-size: 1rem;
+	color: rgb(0, 0, 0);
+}
+footer{
+    color: #fff;
+    background-color: #4a1d6f;
+    font-size: 1rem;
+}
+
+p{
+    color: black;
+}
+
